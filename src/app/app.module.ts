@@ -12,6 +12,9 @@ import { DirectivecompComponent } from './directivecomp/directivecomp.component'
 import { EmployeeComponent } from './employee/employee.component';
 import { GreetingComponent } from './greeting/greeting.component';
 import { LoginComponent } from './login/login.component';
+import { LikeButtonComponent } from './like-button/like-button.component';
+import { ToDoListComponent } from './to-do-list/to-do-list.component';
+
 
 
 
@@ -27,7 +30,10 @@ import { LoginComponent } from './login/login.component';
     DirectivecompComponent,
     EmployeeComponent,
     GreetingComponent,
-    LoginComponent
+    LoginComponent,
+    LikeButtonComponent,
+    ToDoListComponent
+    
     
     
   ],

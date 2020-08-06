@@ -14,5 +14,5 @@ import { Component } from "@angular/core";
 })
 
 export class HelloName{
-    username:string="noname";
+    username:string="";
 }

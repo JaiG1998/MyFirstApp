@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   template: `
 
   
-  <app-login></app-login>
+  <app-like-button></app-like-button>
     
   `,
   styles: []
